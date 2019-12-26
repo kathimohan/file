@@ -1,0 +1,25 @@
+- 123456 ps
+0 S ck 1
+0 S ck_c 0
+0 E rdqs 00
+0 E rdqs_c 11
+0 E edc 11
+
+- 2345167 ps 
+0 S ck 0
+0 S ck_c 1
+0 E rdqs 11
+0 E rdqs_c 00
+0 E edc 10
+
+-342567 ps
+0 S ck 1
+0 S ck_c 0
+0 E rdqs 00
+0 E rdqs_c 11
+0 E edc 11
+
+
+
+
+
